@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../APP-Tareas"
+		},
+		{
+			"path": "../Calculadora"
+		},
+		{
+			"path": "../Concesionario"
+		},
+		{
+			"path": "../iniciandoLaAventura"
+		},
+		{
+			"path": "../Pruebas"
+		}
+	]
+}
